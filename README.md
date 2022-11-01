@@ -28,9 +28,11 @@ LIMPIEZA
 
 4. Después, pasé a limpiar la columna de la edad. Para ello, creé una función en la que recogía mediante un patrón regex  los casos en los que hubiera hasta 5 números diferentes y sacaba una media. Además, metí varios condicionales donde indicaba que, si un tipo de String estaba dentro del valor, se me devolviera un número (adulto, adolescente).
 
-5. La columna de YEAR, simplemente la pasé a int para que el formato fuera un número entero.
+5. La columna de "YEAR", simplemente la pasé a int para que el formato fuera un número entero.
 
-6. En la columna de ACTIVITY, utilicé una función en la que se pasaban varios patrones concretos de REGEX para ir capturando todos los términos que se referían a cada una de las actividades.  
+6. En la columna de "ACTIVITY", utilicé una función en la que se pasaban varios patrones concretos de REGEX para ir capturando todos los términos que se referían a cada una de las actividades.  
+
+7. Por último, en la columna fatal, aseguré que solamente hubiera 2 valores, 'Y' / 'N', además de los nulos.
 
 CONCLUSIONES
 
