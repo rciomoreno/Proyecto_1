@@ -36,6 +36,12 @@ LIMPIEZA
 
 CONCLUSIONES
 
-7. Para finalizar, saqué dos tablas de doble entrada donde se comparaba la cantidad de casos por sexo y por país.
+Para finalizar, saqué dos tablas de doble entrada donde se comparaba la cantidad de casos por sexo y por país:
 
+
+<img width="548" alt="Captura de Pantalla 2022-11-01 a las 9 38 04" src="https://user-images.githubusercontent.com/115650089/199192947-25381a74-c68b-41c4-8abf-53f12aa2d5a8.png">
+
+
+
+<img width="159" alt="Captura de Pantalla 2022-11-01 a las 9 38 27" src="https://user-images.githubusercontent.com/115650089/199193008-81a0eccc-1f5d-4f18-9426-2f5a1abe9ab4.png">
 
